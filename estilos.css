@@ -1,0 +1,25 @@
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background: green;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-right: 50pc;
+    margin: none;
+}
+#btn-registrar {
+    background: darkgreen;
+
+
+}
+#enlace-registro {
+    text-decoration: none;
+    color:white;
+}
+.contenedor {
+    background-color:lightgray;
+
+}
+h1 {
+    background: honeydew;
+}
